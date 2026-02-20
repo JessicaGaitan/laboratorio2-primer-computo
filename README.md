@@ -14,6 +14,16 @@ Selector CSS | .contenedor | Aplica estilos al contenedor
 b. Contestar las siguientes preguntas:
 
 ¿Cuál es la ventaja de utilizar getElementById frente al QuerySelector?
+getElementById es más rápido y sencillo cuando solo quiero seleccionar un elemento por su id.
+
 
 ¿En qué situación es preferible usar querySelectorAll en lugar de querySelector?
+
 Explique qué tipo de dato devuelve cada uno.
+
+
+se usa querySelectorAll cuando queremos seleccionar varios elementos al mismo tiempo.
+
+querySelector devuelve el primer elemento que encuentra.
+
+querySelectorAll devuelve una lista con todos los elementos que coinciden.
